@@ -5,4 +5,7 @@ When making a commit:
 - git push origin main
 
 Getting rid of a change:
-  - 
+  - if already used git add <file_name> to UNSTAGE
+    git reset HEAD <file_name>
+  - if already UNSTAGED
+    * git checkout -- <file_name>
