@@ -1,0 +1,6 @@
+When making a commit:
+- git add .
+- git commit -m 'message'
+- git pull origin master -> when you are working with a team (it will pull changes form other people)
+- git push origin main
+
