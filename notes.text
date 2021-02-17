@@ -4,5 +4,5 @@ When making a commit:
 - git pull origin master -> when you are working with a team (it will pull changes form other people)
 - git push origin main
 
-I'm going to add this line
-Getting rid of blabber
+Getting rid of a change:
+  - 
